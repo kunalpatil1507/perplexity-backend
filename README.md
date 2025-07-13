@@ -1,3 +1,5 @@
+<img width="1920" height="1200" alt="Screenshot 2025-07-13 174459" src="https://github.com/user-attachments/assets/5e7460d8-ac69-464e-bc2f-d0e96ad38c15" />
+<img width="1920" height="1200" alt="Screenshot 2025-07-13 174444" src="https://github.com/user-attachments/assets/e67adfa9-4dfc-4fca-91a4-2780fdc5366a" />
 # 🧩 Perplexity Clone — FastAPI Backend
 
 This is the **FastAPI backend** for your Perplexity clone.
